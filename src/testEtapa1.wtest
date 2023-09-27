@@ -1,0 +1,6 @@
+import vagones.*
+import formaciones.*
+
+describe 'test  ' {
+	const vagon1 = new VagonDePasajero( largo = , ancho = 4, estaOrdenado = true, tieneBanio= true)
+}
